@@ -1,0 +1,8 @@
+You have been hacked by the hacker Potato.
+
+if(potato >= you)
+{
+     KillPotato();
+}
+
+#balela
