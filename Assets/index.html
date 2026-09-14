@@ -1,7 +1,11 @@
 <html>
     <script>
-        function movePlayer(x, y) {
-            this.player.y += y;
+        function movePlayer(x, z) {
+            this.player.x += x;
+            this.player.z += z;
         }    
+        function playerJump(height){
+            this.player.y += height;
+        }
     </script>
 </html>
